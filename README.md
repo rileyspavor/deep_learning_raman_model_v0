@@ -8,6 +8,10 @@
 
 A deep learning framework for classifying graphene materials from Raman spectroscopy data using 1D Convolutional Neural Networks.
 
+
+
+
+
 ====================== ADDITIONAL INFORMATION ==================================
 (bottom of page)
 ================================================================================
@@ -16,16 +20,19 @@ Basic Intructions for Re-Creating Results
 
 ========================== STEP 1: DOWNLOAD DATA ===============================
 
-Google Drive
+Google Drive Links
 '''
-#see file directory for hierarchy 
+
+See file directory for folder hierarchy 
 
 data.zip/
+
 https://drive.google.com/file/d/1AoXoSrj0nOZyZ-3ODmLskPb8Km71ib3s/view?usp=sharing
 
-#download full project.zip (if not working)
+Download: full project.zip (if not working)
 
 deep_learning_raman_model_v0.zip/
+
 https://drive.google.com/file/d/1wUqeHGZlZFG1h2Ue5Xw7PBDB5L3j1vpk/view?usp=drive_link
 
 '''
